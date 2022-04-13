@@ -4297,8 +4297,8 @@ input, select, textarea {
 		}
 		.accordion {
 			cursor: pointer;
-			padding: 18px;
-			width: 100%;
+			padding: 8px;
+			width: 90%;
 			text-align: left;
 			border: none;
 			outline: none;
